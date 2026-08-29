@@ -208,6 +208,12 @@ During development, I learned how to:
 ### Settings
 ![Settings](screenshots/settings.jpeg)
 
+## Demo Video
+
+A short demonstration of the ProxiJournal mobile application:
+
+[▶ Watch ProxiJournal Demo](https://drive.google.com/file/d/17L_jpsy5dxPDK0WcyJ5M-EkOFx2UJzrH/view?usp=drive_link)
+
 ## Author
 
 Haseeba Ali
