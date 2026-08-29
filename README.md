@@ -181,9 +181,32 @@ During development, I learned how to:
 * Manage application state using React hooks
 * Debug mobile application and dependency issues
 
-## Screenshots / Demo
 
-Screenshots and demonstration video are included in the submission.
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.jpeg)
+
+### Create Journal Entry
+![Create Journal Entry](screenshots/create.jpeg)
+
+### Note Details
+![Note Details](screenshots/note-detail.jpeg)
+
+### Note audio
+![Note Audio](screenshots/note-audio.jpeg)
+
+### Note Image
+![Note Image](screenshots/note-image.jpeg)
+
+### Note File
+![Note File](screenshots/note-file.jpeg)
+
+### Explore Journal
+![Explore Journal](screenshots/explore.jpeg)
+
+### Settings
+![Settings](screenshots/settings.jpeg)
 
 ## Author
 
